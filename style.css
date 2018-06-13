@@ -1,0 +1,124 @@
+body {
+  padding: 0px;
+  background-image: url(https://s3.amazonaws.com/designco-web-assets/uploads/2017/07/Podcast-large_2x-1450x1112.png)
+}
+
+nav {
+  list-style-type: none;
+}
+.header{
+  margin: auto;
+  width: 100vw;
+}
+div {
+  float: left;
+  padding: 50px;
+ 
+}
+.better{
+color: white;
+font-size: 23px;
+position: relative;
+right: 1090px;
+}
+
+
+
+
+
+a {
+  color: white;
+  font-size: 20px;
+  display: block;
+  font-family: initial;
+  text-decoration: none;
+  padding: 10px;
+  
+}
+
+b {
+  color: white;
+  font-size: 10px;
+  display: block;
+  font-family: sans-serif;
+  text-decoration: none;
+  padding: 15px 40px;
+  text-align: center;
+  float: left;
+  position: relative;
+  left: 188px
+  
+  
+}
+.top {
+  position:relative;
+margin-left: 430px;
+
+}
+
+.mybutton {
+  background-color: transparent;
+  color: white;
+  font-size: 13px;
+  border-radius: 50px;
+  block-size: 35px;
+  margin: 0;
+  padding: 5px 20px;
+  position: absolute;
+  right: 130px;
+}
+
+h1 {
+  margin: 0;
+  margin-top: 100px;
+  height: 70px;
+  text-align: center;
+  font-size: 80px;
+  color: white;
+}
+
+p {
+  font-size: 20px;
+  text-align: center;
+  color: white;
+}
+
+.mybutton2 {
+  color: rgb(26, 26, 226);
+  font-size: 12px;
+  border-radius: 50px;
+  padding: 19px 35px;
+  position:relative;
+margin-left:760px;
+
+  /* background-color: white;
+  color: rgb(66, 66, 139);
+  font-size: 10px;
+  font-weight: 900;
+  border-radius: 50px;
+  block-size: 55px;
+  margin:0;
+  padding: 15px 40px;
+  position: absolute;
+  transition: .5s ease;
+  top:65%;
+  left: 45%; */
+  
+}
+
+a {
+  display: inline-block;
+  border-radius: 60px;
+  box-shadow: 0px 0px 2px white;
+  padding: 0.5em 0.6em;
+}
+
+.iconHolder {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-content: center;
+  position: absolute;
+  right: 10px;
+  bottom: 20px
+}
